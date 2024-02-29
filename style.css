@@ -1,0 +1,45 @@
+#motivations_image{
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    height: 400px;
+    text-align: center;
+    margin-top: 2em;
+    padding: 50px;
+    margin-bottom: 1em;
+    padding-bottom: 5px;
+}
+
+#motivation-image{
+    height: 100%;
+    fill: black;
+    align-self: center;
+    border: 5px solid white;
+
+}
+
+#heading_text{
+    font-family: "SF Pro";
+    font-weight: 900;
+    font-size: 3em;
+    text-align: center;
+    color: white;
+    text-transform:uppercase;
+}
+
+#paragraph{
+    margin: 30px;
+    padding: 5px;
+
+}
+#paragraph_text{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+}
+
+*{
+    background-color: black;
+}
